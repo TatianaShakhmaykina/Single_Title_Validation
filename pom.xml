@@ -4,8 +4,9 @@
 
   <groupId>core</groupId>
   <artifactId>Single_Title_Validation</artifactId>
-  <version>1.1</version>
-  <packaging>jar</packaging>
+
+<version>${build.version}</version>  
+
 
   <name>Single_Title_Validation</name>
   <url>http://maven.apache.org</url>
